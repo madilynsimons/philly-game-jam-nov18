@@ -1,10 +1,12 @@
 [
 null,
-null,
-null,
+{"id":1,"expanded":true,"name":"Floor 2 Center","order":6,"parentId":0,"scrollX":629,"scrollY":453},
+{"id":2,"expanded":true,"name":"Floor 2 West","order":7,"parentId":0,"scrollX":629,"scrollY":453},
 {"id":3,"expanded":true,"name":"ScreenSouth","order":1,"parentId":0,"scrollX":943.5,"scrollY":679.5},
-{"id":4,"expanded":false,"name":"Floor 1 Center","order":2,"parentId":0,"scrollX":943.5,"scrollY":679.5},
-{"id":5,"expanded":false,"name":"Floor 1 West","order":3,"parentId":0,"scrollX":629,"scrollY":453},
+{"id":4,"expanded":true,"name":"Floor 1 Center","order":2,"parentId":0,"scrollX":629,"scrollY":453},
+{"id":5,"expanded":true,"name":"Floor 1 West","order":3,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"Floor 1 East","order":4,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":7,"expanded":false,"name":"Floor 1 North","order":5,"parentId":0,"scrollX":819,"scrollY":461}
+{"id":7,"expanded":true,"name":"Floor 1 North","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Floor 2 East","order":8,"parentId":0,"scrollX":629,"scrollY":453},
+{"id":9,"expanded":true,"name":"Floor 2 North","order":9,"parentId":0,"scrollX":629,"scrollY":453}
 ]
