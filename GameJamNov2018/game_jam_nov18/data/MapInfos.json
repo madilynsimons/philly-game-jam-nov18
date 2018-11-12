@@ -9,5 +9,5 @@ null,
 {"id":7,"expanded":true,"name":"Floor 3 Center","order":8,"parentId":0,"scrollX":714.6666666666666,"scrollY":463.3333333333333},
 {"id":8,"expanded":false,"name":"Floor 2 East","order":7,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":9,"expanded":true,"name":"Floor 3 West","order":9,"parentId":0,"scrollX":714.6666666666666,"scrollY":463.3333333333333},
-{"id":10,"expanded":false,"name":"Floor 3 East","order":10,"parentId":0,"scrollX":714.6666666666666,"scrollY":463.3333333333333}
+{"id":10,"expanded":false,"name":"Floor 3 East","order":10,"parentId":0,"scrollX":709.3333333333334,"scrollY":462}
 ]
