@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":true,"name":"Floor 1 West","order":3,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"Floor 1 East","order":4,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":7,"expanded":true,"name":"Floor 3 Center","order":8,"parentId":0,"scrollX":714.6666666666666,"scrollY":463.3333333333333},
-{"id":8,"expanded":false,"name":"Floor 2 East","order":7,"parentId":0,"scrollX":629,"scrollY":453},
-{"id":9,"expanded":true,"name":"Floor 2 West","order":9,"parentId":0,"scrollX":714.6666666666666,"scrollY":463.3333333333333},
-{"id":10,"expanded":false,"name":"Floor 2 East","order":10,"parentId":0,"scrollX":714.6666666666666,"scrollY":463.3333333333333}
+{"id":8,"expanded":false,"name":"Floor 2 East","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":true,"name":"Floor 3 West","order":9,"parentId":0,"scrollX":714.6666666666666,"scrollY":463.3333333333333},
+{"id":10,"expanded":false,"name":"Floor 3 East","order":10,"parentId":0,"scrollX":714.6666666666666,"scrollY":463.3333333333333}
 ]
