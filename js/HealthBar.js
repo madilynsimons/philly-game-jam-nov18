@@ -1,12 +1,12 @@
 /*:
 * @plugindesc HealthBar
 * @author mrcopra
-* 
-* @help 
-* 
+*
+* @help
+*
 */
  (function() {
-	 
+
 
 //////////////////////////////////////////////////////////////////////////////////////
 
@@ -43,7 +43,7 @@ this.refresh();
 My_Window.prototype.refresh = function(){
 
       this.contents.clear();
-    this.drawActorHp($gameParty.leader(), 0, 0, 200)
+    this.drawActorHp($gameParty.leader(), 0, 240 , 0, 200)
 };
 
     My_Window.prototype.windowWidth = function(){
@@ -52,6 +52,6 @@ My_Window.prototype.refresh = function(){
        My_Window.prototype.windowHeight = function(){
     	return 80;
     };
-	
-///////////////////////////////////////////////////////////////////////////////////////////////	 
+
+///////////////////////////////////////////////////////////////////////////////////////////////
  })();

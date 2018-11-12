@@ -1,12 +1,12 @@
 /*:
 * @plugindesc HealthBar
 * @author mrcopra
-* 
-* @help 
-* 
+*
+* @help
+*
 */
  (function() {
-	 
+
 
 //////////////////////////////////////////////////////////////////////////////////////
 
@@ -35,7 +35,7 @@ this._myWindow.refresh();
 
 
     My_Window.prototype.initialize = function(x, y) {
-      Window_Base.prototype.initialize.call(this, 0, 0, this.windowWidth(), this.windowHeight());
+      Window_Base.prototype.initialize.call(this, (17*48 - (240)), 100, this.windowWidth(), this.windowHeight());
 this._value = -1;
 this.refresh();
     };
@@ -52,6 +52,6 @@ My_Window.prototype.refresh = function(){
        My_Window.prototype.windowHeight = function(){
     	return 80;
     };
-	
-///////////////////////////////////////////////////////////////////////////////////////////////	 
+
+///////////////////////////////////////////////////////////////////////////////////////////////
  })();
