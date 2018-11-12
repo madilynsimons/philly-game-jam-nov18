@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Floor 2 Center","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"Floor 2 Center","order":5,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":2,"expanded":true,"name":"Floor 2 West","order":6,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":true,"name":"ScreenSouth","order":1,"parentId":0,"scrollX":943.5,"scrollY":679.5},
 {"id":4,"expanded":true,"name":"Floor 1 Center","order":2,"parentId":0,"scrollX":832,"scrollY":640},
